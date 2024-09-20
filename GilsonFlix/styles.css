@@ -31,13 +31,12 @@ header {
     display: inline-block;
     font-style: normal;
     border-radius: 4px;
-    
 }
 .categoria-filmes{
     display: flex;
     overflow-x: auto;
     gap: 2px;
-  }
+}
 .categoria{
     padding-left: 10px;
     padding-right: 10px;
@@ -90,4 +89,11 @@ header {
     display: flex;
     overflow-x: hidden;
     margin-left: 1px;
+}
+.rodape {
+    align-content: center;
+    display: contents;
+    color: chartreuse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
